@@ -13,5 +13,12 @@
     "visualizer"
   ],
   "author": "Cassandra Cruz <celkamada@gmail.com> (http://alicekamada.github.io)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mithril": "^0.2.0"
+  },
+  "devDependencies": {
+    "browserify": "^10.2.4",
+    "mochify": "^2.9.0"
+  }
 }
