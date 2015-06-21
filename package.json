@@ -1,0 +1,17 @@
+{
+  "name": "0x41",
+  "version": "1.0.0",
+  "description": "An HTML5 version of `0x40 Hues`",
+  "main": "index.js",
+  "scripts": {
+    "test": "mochify"
+  },
+  "keywords": [
+    "html5",
+    "0x40",
+    "music",
+    "visualizer"
+  ],
+  "author": "Cassandra Cruz <celkamada@gmail.com> (http://alicekamada.github.io)",
+  "license": "ISC"
+}
